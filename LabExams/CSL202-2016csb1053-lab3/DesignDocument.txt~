@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+Logic of program:
+
+I have first read file line by line and then for each line I have read the file by character by character. Then I compared whether "<" has come or not. Means opening tag has occured or not. If an opening tag has come then i stored the element name in a list l by by storing characters in another list w and joining it to form a word. While appending in the list l i have checked whether the word contains only alphabets or other thing also. If it contains other things then I have made flag = 0. which shows not well formatted.
+
+I have also checked whether the tags occured in the given format or not like nested form. If they are not nested then it will give not well formatted.
+
+I have also checked whether it contains more than 1 root elements or not. if more than one root elements or found then it will give wrong formatted. 
+
+Basically the high level logic of my program is based on stack. I have used the concept of stack via list in python. I checked if after opening tag the closing tag must be of the opening tag.
+
+I have handled all the 3 conditions.
+-----------------------------------------------------------------------------------------------------------------------------------

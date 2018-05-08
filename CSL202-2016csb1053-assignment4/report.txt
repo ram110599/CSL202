@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------------------------------
+Name = Ram Krishna
+Entry No = 2016csb1053
+---------------------------------------------------------------------------------------------------------------------------
+For Compiling:
+	$javac -cp .:javax.mail.jar:mail.jar:activation.jar lab.java
+For Running:
+	$java -cp .:javax.mail.jar:mail.jar:activation.jar lab
+---------------------------------------------------------------------------------------------------------------------------
+I have read the configure.txt file and stored the required result in the string after that i have parsed it into integers and floats. I have used string tokeniser to tokenise the string and read the file. Please don't change the order of data in the file and also don't change the order of the mail i.e don't add any comments or any line after email id.
+
+After that I used the multimap in java to store the results or the data by running the top commands, using process builder. For storing the data I again used the string tokeniser and bufferreader. and then i put the commands in the multihashmap .
+
+After that i defined a function runTop from which I pass the data and compared whether a program violated the condition or not. If it violated then I have put it into other map. and then counted when it violated the codition then an email will be sent.
+
+For email you have to give your user name of gmail account. and then password. after that it will send an email regarding which process have violated the condition.
+
+I have used scheduled excuetor to run the top command and clear the entries. Also I have used a lot of jar files during running and compiling to send mail. But you have to provide your username of gmail account and password. "Mail will not be sent by using lan you will have to use wifi."
+----------------------------------------------------------------------------------------------------------------------------- 

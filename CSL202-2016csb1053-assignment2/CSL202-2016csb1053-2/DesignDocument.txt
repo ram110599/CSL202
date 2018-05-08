@@ -1,0 +1,20 @@
+Name-Ram Krishna
+Entry No-2016csb1053
+
+----------------------------------------------ASSIGNMENT-2--------------------------------------------------------------------
+I have implemented using Factory Method.
+Factory pattern is one of the most used design patterns in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
+
+In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
+
+I have created a lot of algorthim class of sorting. After that I have created a sorting interface named as SortingType.java. In it two methods are used for sort and print. Also AlgoObject is a file used for creating the object of the required Algorithms. I have taken user input to decide which type of algorithms to use. Use will enter the number to use the algorithm.
+
+In the sorting algorithm I have defined a lot of functions or differnt algorithm which defines the algorithm. 
+
+After that I have created the jar file of the various algorithms which can be used to sell to the client. Also Client code is shielded as I have used the interface and If I will change the code further then I will have to just change the algorithm in the algo file rather than changing the client code.
+
+In the AlgoObject Class I have used a static Function to avoid making Its class using new. It will directly call the method without explictly giving the memory.
+
+My main File contains a sample case of an array which is sorted by using which type of algo to be used.Similarly we can use a lot of Speciliased algorithms to shield the client code.
+
+------------------------------------------------------------------------------------------------------------------------------

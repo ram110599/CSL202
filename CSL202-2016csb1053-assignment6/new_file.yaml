@@ -1,0 +1,70 @@
+OS:
+        id: 201
+        name: Windows
+        version: 10
+        arch: 64 bit
+        limits:
+                max_open_files: 1000
+                max_connections: 500
+         provides_libs: [turboc, office_suite]
+
+OS:
+        id: 92
+        name: MacOS
+        version: 10.6
+        arch: 64 bit
+        limits:
+                max_open_files: 500
+                max_connections: 70
+        provides_libs: [mac_lib1, mac_lib2]
+
+Machine:
+        id: 1
+        type: Virtual
+        OS: 92
+        RAM: 16 GB
+        disk: 4 TB
+        CPU: 4 cores
+
+Machine:
+        id: 2
+        type: Virtual
+        OS: 201
+        RAM: 4 GB
+        disk: 256 GB
+        CPU: 2 cores
+
+SoftwareApp:
+        id: 300
+        name: App_first
+        requires_hardware:
+                min_RAM: 512 MB
+                min_disk: 2 GB
+                min_CPU: 2 cores
+        requires_software:
+                OS: [201]
+                libs: [turboc, office_suite]
+
+SoftwareApp:
+        id: 305
+        name: App_second
+        requires_hardware:
+                min_RAM: 512 MB
+                min_disk: 1 TB
+                min_CPU: 2 cores
+        requires_software:
+                OS: [92]
+                libs: [mac_lib1, mac_lib2]
+
+SoftwareApp:
+        id: 298
+        name: App_third
+        requires_hardware:
+                min_RAM: 2 MB
+                min_disk: 4 GB
+                min_CPU: 8 cores
+        requires_software:
+                OS: [201]
+                libs: [turboc, office_suite]
+
+

@@ -1,0 +1,582 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_01 (Sun Microsystems Inc.)
+
+Name: dictionaries/canadian-upper.50
+SHA1-Digest: /bPeDSQ9y56j2gvyUh919lpVXDw=
+
+Name: dictionaries/variant_1-upper.40
+SHA1-Digest: YGT2/nbLSnNarO/WN91ZpHOmKto=
+
+Name: dictionaries/english-upper.95
+SHA1-Digest: B/tWnUAcX7lBxYyavWQ2iQy0czk=
+
+Name: dictionaries/english-abbreviations.40
+SHA1-Digest: +G+N2Epn3pU/ELY8Fz+SwhyibDU=
+
+Name: dictionaries/signature.35
+SHA1-Digest: 00fLyKhiPf3R2nlWqIwZcr7by9Y=
+
+Name: dictionaries/english-abbreviations.35
+SHA1-Digest: V8myicjjilqdg1tNuuGSWg7Pdaw=
+
+Name: dictionaries/british-abbreviations.70
+SHA1-Digest: YHoI3Zo5fyrfXO72/vqiyINW0Kc=
+
+Name: dictionaries/american-abbreviations.55
+SHA1-Digest: yonwLkxBoK7GXMRxufM5Fhy5nvo=
+
+Name: dictionaries/british-words.10
+SHA1-Digest: D/L/2WAr6uCL8ymwCr6y1ViCLyg=
+
+Name: dictionaries/variant_2-words.55
+SHA1-Digest: w706R14QdBsUiDnakg4A1LTh05o=
+
+Name: dictionaries/variant_2-words.50
+SHA1-Digest: qIEeqhyxwN5XE02SOR9e2PsZ0mw=
+
+Name: dictionaries/american-words.35
+SHA1-Digest: qFQC1RqsEDcg/x1uDDQpNroeITc=
+
+Name: dictionaries/british-upper.80
+SHA1-Digest: pXadrb2Kc8aiYvNzI1l2BmFGPUM=
+
+Name: dictionaries/canadian-upper.60
+SHA1-Digest: /Uche8dGuoAwHrbD2I7Eqn5529k=
+
+Name: dictionaries/variant_1-upper.50
+SHA1-Digest: 9KoV00Qif1YowUucyYrppn2Vav0=
+
+Name: dictionaries/custom.txt
+SHA1-Digest: YK8q0qukLLhOYE/MhfY7IqjrZb0=
+
+Name: dictionaries/english-abbreviations.50
+SHA1-Digest: 86VEtS8PrOqbX/HLTnbIz5iofZw=
+
+Name: dictionaries/american-words.20
+SHA1-Digest: lGfQbQG5SfYzNeK18E7UiCvr7lg=
+
+Name: dictionaries/variant_2-words.40
+SHA1-Digest: zNUoVV6uCPjl26rIZsowTXnvhqs=
+
+Name: dictionaries/british-upper.70
+SHA1-Digest: FyU7o/Oaq7iVYhD4bFMu4sVEVU0=
+
+Name: dictionaries/roman-numerals
+SHA1-Digest: Spr5Yu8eExe9vIKFKoHiHFGg8vE=
+
+Name: dictionaries/english-abbreviations.20
+SHA1-Digest: T8y1DQIGttBrhsYQ5pOINbEZabY=
+
+Name: dictionaries/variant_1-upper.60
+SHA1-Digest: 3d3WE9BRyfRJTN1CY1nb2tBPCq0=
+
+Name: dictionaries/american-words.55
+SHA1-Digest: uaObY9l4//lLs8/0pIu0MvY3crQ=
+
+Name: dictionaries/variant_0-words.80
+SHA1-Digest: fmzNHjmyYhifmrhTgzXZHD1LfKg=
+
+Name: dictionaries/variant_2-words.35
+SHA1-Digest: Y1rPBlBPvY+34O1/C+oLJABSdl8=
+
+Name: dictionaries/american-words.50
+SHA1-Digest: 3VayY0a6s6oBz5WPQycRBz1eH9E=
+
+Name: dictionaries/english-abbreviations.10
+SHA1-Digest: oe5i1TjewsfIisdkHZki4F9z8G4=
+
+Name: dictionaries/american-abbreviations.70
+SHA1-Digest: LudRrwuOfcSSODCxhCokrBrXP+M=
+
+Name: dictionaries/variant_0-contractions.60
+SHA1-Digest: i2n6xmTILnxt6LU3LJtI5Znly9Y=
+
+Name: dictionaries/variant_1-upper.70
+SHA1-Digest: dktOO00eUmJZZbJ7mgMdegiAgW0=
+
+Name: dictionaries/variant_0-words.95
+SHA1-Digest: jBLnBZTlUdrINIjdPWnqGKGEkXE=
+
+Name: dictionaries/variant_2-words.20
+SHA1-Digest: J9RM5lGI4a81bJzWPbF2Ej62g3o=
+
+Name: dictionaries/american-words.40
+SHA1-Digest: WKz8NMnyVaUo13BaY7tO4cINixA=
+
+Name: dictionaries/british-upper.95
+SHA1-Digest: DBskprXJ2RI7ymcA8HfJyxe7wKw=
+
+Name: dictionaries/variant_0-words.60
+SHA1-Digest: CcrrS/adUQW9WtyWTGWuh8RCTXM=
+
+Name: dictionaries/frequent.lst
+SHA1-Digest: JFspjNeYE8uUdPLvLqdodkgzzdU=
+
+Name: dictionaries/british_z-words.70
+SHA1-Digest: DnwHT6kzR0bmLNXybx2yOqXSb/4=
+
+Name: dictionaries/english-contractions.70
+SHA1-Digest: z15ZXqYgpx4tISU+VC7DXwYM1dc=
+
+Name: dictionaries/english-words.80
+SHA1-Digest: zKm0D6h80m3XHrHrD+uplv0QGjM=
+
+Name: dictionaries/special-roman-numerals.35
+SHA1-Digest: Spr5Yu8eExe9vIKFKoHiHFGg8vE=
+
+Name: dictionaries/american-upper.95
+SHA1-Digest: uHAbgODXJTmgI1FSBrYS9qzSlnk=
+
+Name: dictionaries/american-words.70
+SHA1-Digest: V5BTn4+Q14O0uOmQN6By0RXKOWU=
+
+Name: dictionaries/english-upper.60
+SHA1-Digest: oDsYQBTsLClbZ94qqJ2035+2OBI=
+
+Name: dictionaries/variant_2-words.80
+SHA1-Digest: oUlORFEg0GEFnK1zczNHNJ/C+p4=
+
+Name: dictionaries/english-words.95
+SHA1-Digest: a3RjynT/XCfGp3nnn6v4OfhkaBI=
+
+Name: dictionaries/variant_0-words.70
+SHA1-Digest: vYk6b5K5U0r44SgWC5Vr6w/lnLo=
+
+Name: dictionaries/not-possessive
+SHA1-Digest: QdjhDLPxBI9/IDZxWAR69GQSA28=
+
+Name: dictionaries/british_z-words.80
+SHA1-Digest: nNL1w2Y4TN6tG0fftLrYNiDHAV4=
+
+Name: dictionaries/english-upper.40
+SHA1-Digest: +3y9DQPot3EqDPUC0CdRNAfafU8=
+
+Name: dictionaries/english-contractions.60
+SHA1-Digest: Ltmyhj0JM7cEiaLmOjKGgnt5XOo=
+
+Name: dictionaries/canadian-abbreviations.70
+SHA1-Digest: YHoI3Zo5fyrfXO72/vqiyINW0Kc=
+
+Name: dictionaries/english-upper.50
+SHA1-Digest: DD20ZlLDiuvRxPcq4lHGrEcQSt0=
+
+Name: dictionaries/american-words.60
+SHA1-Digest: +NBC2oMtvJKv8hUnR84BvE1Md8Q=
+
+Name: dictionaries/abbreviations-also
+SHA1-Digest: DpArESu0nOjwR0BUHcuIWNkTzzg=
+
+Name: dictionaries/variant_0-words.40
+SHA1-Digest: xrjZGh/LSZyyG1lCi0WTE40zTUU=
+
+Name: dictionaries/variant_2-words.70
+SHA1-Digest: Nc/A6BIBXAs8kEwfZ3dhOC55PWk=
+
+Name: dictionaries/english-contractions.95
+SHA1-Digest: EKehROSexPCW9o+GK9fYuGqGs7k=
+
+Name: dictionaries/canadian-proper-names.70
+SHA1-Digest: TPZvGnxUFqBdsTuucoaynDDaNpY=
+
+Name: dictionaries/british_z-words.95
+SHA1-Digest: c2J1Qq3neOsaW9/IkCC2bLE4FFE=
+
+Name: dictionaries/american-upper.70
+SHA1-Digest: 04FHuM4fTqbtRlbo7ylFIFbe8KI=
+
+Name: dictionaries/american-words.95
+SHA1-Digest: 33qvGyWe3vLU1S3P4+HRnEF2/GA=
+
+Name: dictionaries/english-upper.80
+SHA1-Digest: e9t91rVJuAK56uVSWcmof3xid14=
+
+Name: dictionaries/american-words.80
+SHA1-Digest: xfQzl+7c18ZeLfpYyHKsQWwllRc=
+
+Name: dictionaries/variant_0-words.55
+SHA1-Digest: NhGugn/dH+GgGXihB8gQekwVRpA=
+
+Name: dictionaries/variant_2-words.60
+SHA1-Digest: ph90ab9151xgPvqSqQqzgiMaG0A=
+
+Name: dictionaries/variant_0-words.50
+SHA1-Digest: 5Q5exGBE+ebmJtP46Q5gzbuf8G8=
+
+Name: dictionaries/canadian-proper-names.80
+SHA1-Digest: FVqHi8OxIQU0V+eZw2+hcfZQ0jY=
+
+Name: dictionaries/variant_1-upper.35
+SHA1-Digest: L0QfvyJ49eC93e4bcQhObdStty8=
+
+Name: dictionaries/special-hacker.50
+SHA1-Digest: SbHnK5XnnHnj0Cu5Q/abCvYl1WY=
+
+Name: dictionaries/english-contractions.80
+SHA1-Digest: ILvPKsgBGBkNMdo4RfwHar72d1w=
+
+Name: dictionaries/english-proper-names.35
+SHA1-Digest: qaqAI72gHZK41h19HYT/zR2mUXc=
+
+Name: dictionaries/american-upper.80
+SHA1-Digest: i/GFtVPszZoVwJiajJVUUcOubco=
+
+Name: dictionaries/names.from_alan_beale
+SHA1-Digest: s1mP2F7Jkti7YRQ507sYFMK0MQg=
+
+Name: dictionaries/canadian-words.10
+SHA1-Digest: 1kBFKJty2ANXqNvp8MeknL9AavY=
+
+Name: dictionaries/english-upper.70
+SHA1-Digest: z8z6u49lbbFmz3QxhtMG6q7qPxQ=
+
+Name: dictionaries/british_z-proper-names.95
+SHA1-Digest: LL5mYgwLaR0JAf+ff3LPVBEYHhE=
+
+Name: dictionaries/canadian-words.20
+SHA1-Digest: qZlJIrjNKpTLw5rkxrtJDFoAY+M=
+
+Name: dictionaries/proper-names
+SHA1-Digest: AAQv9rNZb4koiOl9hN2mLEYa/Do=
+
+Name: dictionaries/english-proper-names.50
+SHA1-Digest: ZRtYX5CwgCizQJB4jIwgZrt6uso=
+
+Name: dictionaries/canadian-proper-names.95
+SHA1-Digest: LL5mYgwLaR0JAf+ff3LPVBEYHhE=
+
+Name: dictionaries/british_z-words.35
+SHA1-Digest: MIDRD+PqDZp1wIN2k6+GbRfICe0=
+
+Name: dictionaries/american-upper.50
+SHA1-Digest: xFvaU6yMfLV5u/E0fb0c+3PR/fw=
+
+Name: dictionaries/english-proper-names.55
+SHA1-Digest: B0qFcrlUwtELoT6Tc/XMhtt9DNg=
+
+Name: dictionaries/english-words.40
+SHA1-Digest: YF5j6/TjMgXUe1JpmdEsHb5cqn8=
+
+Name: dictionaries/british-words.80
+SHA1-Digest: vUaozHTkVuifuZPzyiEDGeEMzvY=
+
+Name: dictionaries/abbreviations
+SHA1-Digest: /s7Kmq7BENFQQrpAcbgv/KUmCck=
+
+Name: dictionaries/english-upper.10
+SHA1-Digest: zdkbddy7XDPBWkLOQaVRqRKyVNI=
+
+Name: dictionaries/variant_0-words.20
+SHA1-Digest: 95m2XbuwK+TmKrMXqGd1XrVfgUM=
+
+Name: dictionaries/english-proper-names.40
+SHA1-Digest: 810gj1WRFKSqIWiQSh/YHytEJf0=
+
+Name: dictionaries/canadian-words.35
+SHA1-Digest: VU4tbnDFIBk1eWGJSX/P2up/2YU=
+
+Name: dictionaries/english-words.50
+SHA1-Digest: s+icLBp70NB3EGlKakWhVsMRWBo=
+
+Name: dictionaries/american-upper.60
+SHA1-Digest: /UtugSc9SQJN2cNBOLeyC+zrias=
+
+Name: dictionaries/british-words.95
+SHA1-Digest: W8/HcFIx+Zk/QNvKXDPGG2ru9Ps=
+
+Name: dictionaries/english-words.55
+SHA1-Digest: 2qmej1q6oqT3j2FeWL823PNlWDA=
+
+Name: dictionaries/variant_1-abbreviations.40
+SHA1-Digest: TPIGjDnAR1lSYDiYD2pPOQphJCU=
+
+Name: dictionaries/british_z-words.40
+SHA1-Digest: F0ynkOeglCycc2Ex+vfCy43wKk4=
+
+Name: dictionaries/variant_0-words.35
+SHA1-Digest: po7K/27RFJx63RSNAmQfP/h4sms=
+
+Name: dictionaries/variant_1-proper-names.35
+SHA1-Digest: 4nQAVnWpTCpQOy9+6fr4Bb8VUdM=
+
+Name: dictionaries/variant_1-words.95
+SHA1-Digest: zatrbUSFKiqo3EiEgWH/18N+OfA=
+
+Name: dictionaries/english-contractions.35
+SHA1-Digest: 7sDE+qSFI2q6CTM5dKsHCODerCs=
+
+Name: dictionaries/variant_1-contractions.50
+SHA1-Digest: 0ORvJkxzbIZAtzAWJO3e53OLMv0=
+
+Name: dictionaries/english-proper-names.70
+SHA1-Digest: 3uzLDKz4LYkqx/hWBtIf0V1SVRA=
+
+Name: dictionaries/english-words.60
+SHA1-Digest: 7lC8lzcC4Hj21VQkmr+MyBIMcMk=
+
+Name: dictionaries/variant_1-words.80
+SHA1-Digest: KzmkEoAVdOKLo6P3SxRs83XJbDM=
+
+Name: dictionaries/british_z-proper-names.70
+SHA1-Digest: TPZvGnxUFqBdsTuucoaynDDaNpY=
+
+Name: dictionaries/canadian-words.40
+SHA1-Digest: F0ynkOeglCycc2Ex+vfCy43wKk4=
+
+Name: dictionaries/canadian-abbreviations.80
+SHA1-Digest: 3zWmURiJiKhM27YlPbL1+mjx160=
+
+Name: dictionaries/british_z-upper.95
+SHA1-Digest: DBskprXJ2RI7ymcA8HfJyxe7wKw=
+
+Name: dictionaries/american-proper-names.70
+SHA1-Digest: JDD5pgtNiA1tI542pYP+PdECORk=
+
+Name: dictionaries/british-words.60
+SHA1-Digest: l7Kvqf8qpZ/D4eVa3Q+scGxH6k8=
+
+Name: dictionaries/variant_0-upper.50
+SHA1-Digest: bEShaXmnCRn/2ApdJ+AiBYgl+5M=
+
+Name: dictionaries/british_z-words.55
+SHA1-Digest: n5vgo8pyZzBkoRMppdKXuzLvdQk=
+
+Name: dictionaries/british_z-words.50
+SHA1-Digest: EJaZqHVULoKlBHUbVCwwc3zEIGY=
+
+Name: dictionaries/english-contractions.40
+SHA1-Digest: Vi+6vj5Woa7T89XktmjTaBFf7Lg=
+
+Name: dictionaries/variant_1-contractions.60
+SHA1-Digest: VfNFJofj7PsME8BcVTQLR2PCcaE=
+
+Name: dictionaries/english-upper.35
+SHA1-Digest: b1DjUtCj4nQZuhL8Dh5Z1ZYKJ/M=
+
+Name: dictionaries/canadian-words.55
+SHA1-Digest: n5vgo8pyZzBkoRMppdKXuzLvdQk=
+
+Name: dictionaries/british_z-proper-names.80
+SHA1-Digest: FVqHi8OxIQU0V+eZw2+hcfZQ0jY=
+
+Name: dictionaries/english-proper-names.60
+SHA1-Digest: knsDPwTbd+17QKNocKcMnVoBScw=
+
+Name: dictionaries/english-words.70
+SHA1-Digest: 6s+feh8abL6AeVB6Teo15PXZT9E=
+
+Name: dictionaries/variant_1-words.70
+SHA1-Digest: Y5wnZdABP1B6xxVN7E6NYOoAPy0=
+
+Name: dictionaries/british-words.70
+SHA1-Digest: Vu8egvGZ/l+AMd79wOMNGkrdzs8=
+
+Name: dictionaries/canadian-abbreviations.95
+SHA1-Digest: q8fgI19WUAGF9rXRRYDTqE2mfio=
+
+Name: dictionaries/british_z-upper.80
+SHA1-Digest: KFW/BaLgxPZ/USvjOkm7FgzDA1M=
+
+Name: dictionaries/variant_0-upper.60
+SHA1-Digest: e3MBGiu8DHXoQdqlQlVfcaEKs9Q=
+
+Name: dictionaries/british_z-words.60
+SHA1-Digest: cp6Duisv6hodXUObwZ3DrcbKOEQ=
+
+Name: dictionaries/english-contractions.50
+SHA1-Digest: O5w1N433El0lCxP0h5n9sSO4KiE=
+
+Name: dictionaries/british_z-abbreviations.95
+SHA1-Digest: q8fgI19WUAGF9rXRRYDTqE2mfio=
+
+Name: dictionaries/variant_1-contractions.70
+SHA1-Digest: VXlOtk/Bq29qJbsNRnsRJnDdX+8=
+
+Name: dictionaries/canadian-words.50
+SHA1-Digest: qt8/3BjfmW1wWtlRca5rxoTX1ic=
+
+Name: dictionaries/never-variant
+SHA1-Digest: Q8LDmnxN8+RfJ71pSAIAUi4Q3Fo=
+
+Name: dictionaries/british-abbreviations.80
+SHA1-Digest: 3zWmURiJiKhM27YlPbL1+mjx160=
+
+Name: dictionaries/british-words.40
+SHA1-Digest: h0qfmekenzV3KxgLTzu3zO6sLiQ=
+
+Name: dictionaries/british-proper-names.80
+SHA1-Digest: Go1JzSL8Eymej6zvnaLrw5pbgBE=
+
+Name: dictionaries/american-proper-names.95
+SHA1-Digest: y/xHZDbIpzmrZTryTC2ZjWF2FCY=
+
+Name: dictionaries/variant_2-words.10
+SHA1-Digest: bUIH5o8aM9jz72zqlQDNX8z2xGg=
+
+Name: dictionaries/english-proper-names.95
+SHA1-Digest: JyzqNvu+yiYaDtKxQA7y88x7pGk=
+
+Name: dictionaries/english-abbreviations.95
+SHA1-Digest: KYVDnH6JYip/tUuHkGGlXS57ZgI=
+
+Name: dictionaries/british_z-abbreviations.80
+SHA1-Digest: 3zWmURiJiKhM27YlPbL1+mjx160=
+
+Name: dictionaries/variant_1-words.20
+SHA1-Digest: DLmASMg2/VQb/NNUqjQs7BVMCkI=
+
+Name: dictionaries/variant_1-words.60
+SHA1-Digest: ptPcyMJ90sr+ZOCSphrXnA1sOh0=
+
+Name: dictionaries/canadian-words.60
+SHA1-Digest: ewQiqaTZwTsJj84vEXPGXoPSHOQ=
+
+Name: dictionaries/canadian-upper.95
+SHA1-Digest: DBskprXJ2RI7ymcA8HfJyxe7wKw=
+
+Name: dictionaries/british_z-upper.70
+SHA1-Digest: 3MPm2TWgwrP/+SUDRKkNv52VYxM=
+
+Name: dictionaries/variant_1-abbreviations.70
+SHA1-Digest: b+eKukeUMVpIKAO2ojawWWdo6MY=
+
+Name: dictionaries/british_z-upper.60
+SHA1-Digest: /Uche8dGuoAwHrbD2I7Eqn5529k=
+
+Name: dictionaries/american-proper-names.80
+SHA1-Digest: nDFq7lQuFgq40OKkbNnNsQvsQKE=
+
+Name: dictionaries/british-words.50
+SHA1-Digest: At+mbBgcn3PWWwvelIOSFi9wV7g=
+
+Name: dictionaries/british-proper-names.70
+SHA1-Digest: ubbYGbDaK+CSJC4qLlO6QsGC3Bs=
+
+Name: dictionaries/english-words.10
+SHA1-Digest: 4RGTIJHXekimIQYki71g5uNYeB8=
+
+Name: dictionaries/signature.70
+SHA1-Digest: mK2J4Yoq1norV1rt30u1D3usV9A=
+
+Name: dictionaries/english-proper-names.80
+SHA1-Digest: 6XuqAHWIoZSyLOv6sVqDTAo/0SI=
+
+Name: dictionaries/british-abbreviations.95
+SHA1-Digest: q8fgI19WUAGF9rXRRYDTqE2mfio=
+
+Name: dictionaries/british-words.55
+SHA1-Digest: YIr/p9fbjH8nC0BnK3xBrxaOPU4=
+
+Name: dictionaries/unix-terms
+SHA1-Digest: H2iILnSy0bgRTl9hKsM5/bmvzP0=
+
+Name: dictionaries/variant_1-words.10
+SHA1-Digest: mpndWzkx1VtgSsvB433/iIIftQg=
+
+Name: dictionaries/variant_1-words.50
+SHA1-Digest: wV1sAKlVHN5PGcHjbbPH1bfS4no=
+
+Name: dictionaries/english-abbreviations.80
+SHA1-Digest: kGe4klwFPbuRtNsy7w6VRKKjUZo=
+
+Name: dictionaries/canadian-words.70
+SHA1-Digest: EmoqvAj05gpeE64cYgeDbXUeing=
+
+Name: dictionaries/british_z-abbreviations.70
+SHA1-Digest: YHoI3Zo5fyrfXO72/vqiyINW0Kc=
+
+Name: dictionaries/variant_1-words.55
+SHA1-Digest: g4KCuLJwfWA82LyqDSysKLRXWhM=
+
+Name: dictionaries/variant_0-upper.40
+SHA1-Digest: R51q21wf/JGvFEEhe9ZiaA2dYTc=
+
+Name: dictionaries/british-upper.50
+SHA1-Digest: qbPzvwMS8SYwZdAq+/q0pE7H9Rk=
+
+Name: dictionaries/english-words.20
+SHA1-Digest: JKpVwZursdXXOo2Jw1g0yC5jr8Y=
+
+Name: dictionaries/variant_1-proper-names.80
+SHA1-Digest: O6YDYDszl1Hofr1ncMuamu7vhwg=
+
+Name: dictionaries/british_z-upper.50
+SHA1-Digest: /bPeDSQ9y56j2gvyUh919lpVXDw=
+
+Name: dictionaries/letters
+SHA1-Digest: fA4DVjU49B4T/ujF3DW+ryj85OM=
+
+Name: dictionaries/american-words.10
+SHA1-Digest: aQISiG2IzWgr61zkMYx3/jaGhBI=
+
+Name: dictionaries/british-words.20
+SHA1-Digest: 0my4kOPEaV9gnkvUEH0fQpqt/yU=
+
+Name: dictionaries/variant_1-upper.95
+SHA1-Digest: t1Bisnnv7dTdDHsTjRHV2xFFQ8Y=
+
+Name: dictionaries/english-abbreviations.70
+SHA1-Digest: JKhp16Z4x5cBAUGwT5aGHmJCR8o=
+
+Name: dictionaries/canadian-words.80
+SHA1-Digest: UZFSy9nnPr36wQxKdlHeBrrwYfo=
+
+Name: dictionaries/variant_1-words.40
+SHA1-Digest: Va965Aheqd42MKeek6Q51JAWAh8=
+
+Name: dictionaries/british_z-words.10
+SHA1-Digest: 1kBFKJty2ANXqNvp8MeknL9AavY=
+
+Name: dictionaries/canadian-upper.70
+SHA1-Digest: 3MPm2TWgwrP/+SUDRKkNv52VYxM=
+
+Name: dictionaries/english-words.35
+SHA1-Digest: ER2iJ23jSfnczMCF9mLSMTixmhE=
+
+Name: dictionaries/british-upper.60
+SHA1-Digest: YG+d8ihcRHm5qFzM0oYbLbh4lh8=
+
+Name: dictionaries/english-abbreviations.55
+SHA1-Digest: xlf9/aaHRYfi2JNGBmR3ntWqhOE=
+
+Name: dictionaries/signature.50
+SHA1-Digest: dh4da6Uhi40x4TuMEndOJJtEJuc=
+
+Name: dictionaries/variant_1
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: dictionaries/british-proper-names.95
+SHA1-Digest: +q+J88q58i6QTKNIqlGgJQXse64=
+
+Name: dictionaries/variant_2
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: dictionaries/canadian-words.95
+SHA1-Digest: c2J1Qq3neOsaW9/IkCC2bLE4FFE=
+
+Name: dictionaries/british-words.35
+SHA1-Digest: FQSryBmfoggaLri16VPI7/+rKNw=
+
+Name: dictionaries/variant_0
+SHA1-Digest: QO0K6wDnv9XuCgfVIC2/JJnLC1w=
+
+Name: dictionaries/english-contractions.10
+SHA1-Digest: 8eI+80W29YJhdc7jy6mSIvp1rPA=
+
+Name: dictionaries/english-abbreviations.60
+SHA1-Digest: cS6F9RY9Cl/LdFMZmL9Y9bQ+fA4=
+
+Name: dictionaries/never-abbreviations
+SHA1-Digest: acz0jhTItqgWffgKFJs5MnHx7xQ=
+
+Name: dictionaries/british_z-words.20
+SHA1-Digest: jP+rZx1MWrf512bUKy0+1lh88yA=
+
+Name: dictionaries/canadian-upper.80
+SHA1-Digest: KFW/BaLgxPZ/USvjOkm7FgzDA1M=
+
+Name: dictionaries/variant_1-words.35
+SHA1-Digest: /1xuYSEC0Mliq777ugs5Oct/AOw=
+
+Name: dictionaries/variant_1-upper.80
+SHA1-Digest: MRfGYHzJ7rbYa5PLJEHpxbq5hNs=
+

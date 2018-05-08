@@ -1,0 +1,22 @@
+Name - RAM KRISHNA
+Entry NO - 2016csb1053
+---------------------------------------------------------------------------------------------------------------------------------------
+For Compiling:
+	$javac Lab3.java
+For Running:
+	$java Lab3 https://repo1.maven.org/maven2/aelfred/aelfred/1.2/aelfred-1.2.jar
+---------------------------------------------------------------------------------------------------------------------------------------
+
+I have used the java nio api for downloading the jar file given by its url through the command line argument and stored it in DownloadedJAR  after downloading I have extract the JAR file using JAR package available in JAVA in the "JAR" directory . I have taken help of online resources. After extracting I have used the command line find all the .class file in a separate directory named as class. After that I am storing the names of all the files in a string array and then using command line to execute the javap -verbose command to count the pool size using the pattern matcher and reding line by line using java buffer reader. Similarly for counting the method I have used the same concept of buffer reader and counting for calculating the number of methods. Then I stored all the poolsize in an array and calculated Its average, min, max and standard deviation etc. Similarly for calculating the method number I have used the same concept and stored the result into an array.
+
+For calculating the Top 50 JVM I have stored all the JVM instructions in a hash map taken from internet and then counted how many times it occured in all the class file. I have used the regular expression for counting the JVM instructions.
+
+I have passed all the instructions into a output file by using file reader. The name of output file is output.txt.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Commands used for java file are:
+	$javap -verbose 
+	for finding poolsize and JVM instructions
+	$javap -p
+	for finding number of methods
+	

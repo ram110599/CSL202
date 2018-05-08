@@ -1,0 +1,12 @@
+------------------------------------------------------------------------------------------------------------------------------------
+For compiling:
+	$javac lab2.java
+For running:
+	$java lab2 input1.txt dictionaries.zip
+------------------------------------------------------------------------------------------------------------------------------------
+Here I have given first input file and then the path of zip file of dictionary. Please follow this way.
+------------------------------------------------------------------------------------------------------------------------------------
+I have taken the syntax of file handling from internet and For unzipping file.
+First of all I am unzipping the folder and Giving it name Dictionary in the current directory.
+My logic is simple First of all I read each word in the input file. After that I am reading all the files in the dictionary folder and trying to match the given words. If It matches then It is ok. but if it doesn't match Then I am printing it. For this I have used the File handling.
+I have added delimiters only space. So it wil give correct result if File avoids any delimiter.

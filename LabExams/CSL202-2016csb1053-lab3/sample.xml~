@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<note std="1st">
+	</bac><to>Tove</to>
+	<from>Jani</from><heading>
+	Reminder</heading>
+	<p>This one <em>has <strong>overlapp strong tag with em</strong></em></p>
+	<P>This one <em>has different case for opening and closing P, and em12 has digits in the tag name</em></P>
+	<body>Don't forget me this weekend!</body>
+
+</note>
+

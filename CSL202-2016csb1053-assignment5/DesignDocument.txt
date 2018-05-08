@@ -1,0 +1,24 @@
+What does this program do?
+
+This program is basically to find duplicates hyperlink. A duplicate hyperlink is defined as the href content in an anchor tag. Its text may be different but hyperlink have to be same. Then we will pass an html file and this program will give us how many hyperlinks are duplicates. It will display the duplicates link along with its text and line no in actual file. After that it will ask user which hyperlinks have to keep. It will give a resultant output file in the current dieectory with name same as the file given by command line with an .dedup extension.
+========================================================================================================================================================
+
+My logic and How this Program works?
+
+Actually I have used the concept of dictionary, list, tuple, set, looping, file reading and writing, BeautifulSoup for doing the jobs.
+I have used the opened the html file and read by line by line and the parsed the anchor tag using BeautifulSoup. Then I stored all the hyperlink in th e dictionary as key and then I used list to store its text, line no and link corresponding to the key in the dictiory. Here the basic idea is that if a line appears more than once then I will append it to the list and if it is unique then i will just keep it as list. After that I have checked which lists have length more than one then that link will be duplicates and thus counting the number of duplicates and storing it into another dictionary named dict1 and assigned value 0 for future help.
+
+Now when user will be asked to which hyerlink they want to keep. Now there are various options one is when user will enter A. then we don't have to change the input file. i.e. we have to keep all the hyperlinks.
+
+When the user will enter F, then the first occurrance of the duplicate link has to keep and rest have to remove. For this I have used the help of above dictionary dict1 when the program finds any duplicate link for first time then it will change the value of that key in dictionary to 1 from 0. Next time when the same link will occur then it will just check the value that if it is not zero then it will remove that anchor tag.
+
+When the user enter comma separated number which will be displayed then i have splited the string and basically converted it into set. then I have kept that hyperlink separately in a different dictionary and checked it with the link and line no if i find such links I basically keep it and rest I have removed.
+
+
+========================================================================================================================================================
+Assumption:
+1-I have assumed that the user will provide the html file via command line. If not given it will throw an exception.
+2-I have assumed that all the anchor tag will be on the same line i.e. <a href="jhjhb">Text</a> It will be on a single line. It will not be on multiple line. As I have used BeautifulSoup for parsing and used it line by line. So it will create problem if the tag is not on same line.
+3-I have assumed that on a single line there is not more than one anchor tag having same text, hyperlink, and same line no. While it may have more than one different anchor tag having different hyperlink, or different line no.
+4-I have assumed that hyperlink is not in comment section. If it is in comment section and repeats then also it will be shown. 
+5- I have assumed that the user will enter only numerics separated by comma and spaces(if any). If a user enters any other strings then it will remove all the duplicates as my program will understand that user doesnot want to keep any duplicates link.
